@@ -1,5 +1,5 @@
 ## Project Structure
-bash
+
 ```
 📦 project-root/
 │
